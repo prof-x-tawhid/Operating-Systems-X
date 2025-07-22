@@ -1,0 +1,138 @@
+# How to Install These Linux Distros on Windows or Linux Machines
+
+This guide explains how to install the following Linux distributions:
+
+- Archcraft (Arch-based, Openbox/BSPWM)  
+- Nobara (Fedora-based, KDE)  
+- Deepin (Debian-based, Deepin DE)  
+- Pear OS (Ubuntu-based, macOS-like UI)  
+- FydeOS (ChromeOS-like, lightweight)
+
+---
+
+## 1. Archcraft
+
+### Installation on Windows/Linux (via USB boot)
+
+1. **Download ISO:**  
+   Visit https://archcraft.io/download/ and download the latest ISO.
+
+2. **Create Bootable USB:**  
+   - On Windows: Use [Rufus](https://rufus.ie/)  
+   - On Linux: Use `balenaEtcher` or `dd` command  
+   
+3. **Boot from USB:**  
+   Restart your PC and enter BIOS/boot menu (`F2`, `F12`, `DEL`, or `ESC`).  
+   Select USB as boot device.
+
+4. **Install Archcraft:**  
+   Follow the on-screen graphical installer. Choose your disk, partitions, username, etc.
+
+5. **Reboot & Enjoy:**  
+   Remove USB and boot into your new Archcraft system.
+
+---
+
+## 2. Nobara
+
+### Installation on Windows/Linux (via USB boot)
+
+1. **Download ISO:**  
+   Visit https://nobaraproject.org/ and download Nobara Workstation ISO.
+
+2. **Create Bootable USB:**  
+   Use Rufus (Windows) or Etcher/dd (Linux) as described above.
+
+3. **Boot from USB and Install:**  
+   Choose “Install Nobara” option and follow the Fedora-based installer.
+
+4. **Complete Setup:**  
+   Configure username, timezone, and software selections.
+
+5. **Reboot:**  
+   Remove USB and start Nobara on your machine.
+
+---
+
+## 3. Deepin
+
+### Installation on Windows/Linux (via USB boot)
+
+1. **Download ISO:**  
+   Visit https://www.deepin.org/en/download/ to get the latest Deepin ISO.
+
+2. **Create Bootable USB:**  
+   Use Rufus or Etcher/dd.
+
+3. **Boot from USB:**  
+   Restart and boot into the USB drive.
+
+4. **Run Installer:**  
+   Click “Install Deepin” and follow the simple graphical installer.
+
+5. **Reboot into Deepin:**  
+   Remove USB and enjoy the beautiful Deepin desktop.
+
+---
+
+## 4. Pear OS
+
+### Installation on Windows/Linux (via USB boot)
+
+> Note: Pear OS is discontinued. You may need to request the ISO from trusted sources.
+
+1. **Obtain Pear OS ISO:**  
+   Contact me via Instagram or website for the ISO file.
+
+2. **Create Bootable USB:**  
+   Use Rufus (Windows) or Etcher/dd (Linux).
+
+3. **Boot USB and Install:**  
+   Boot from USB, select “Install Pear OS”, and follow the Ubuntu-based graphical installer.
+
+4. **Setup User & Settings:**  
+   Choose partitions, create user, and finish installation.
+
+5. **Reboot:**  
+   Remove USB and boot Pear OS.
+
+---
+
+## 5. FydeOS (Separate Instructions)
+
+### Installation on Windows/Linux (via USB boot)
+
+1. **Download FydeOS:**  
+   Go to https://fydeos.io/download/ and download the PC version.
+
+2. **Create Bootable USB:**  
+   - On Windows: Use Rufus or balenaEtcher  
+   - On Linux: Use balenaEtcher or `dd`
+
+3. **Boot from USB:**  
+   Restart your PC, enter BIOS, and boot from USB.
+
+4. **Run FydeOS Live or Install:**  
+   You can test FydeOS live or run the installer from the app menu.
+
+5. **Install FydeOS:**  
+   Follow on-screen instructions to install it on your hard drive.
+
+6. **Reboot and Use:**  
+   Remove USB and enjoy FydeOS.
+
+---
+
+## Tips
+
+- Backup your data before installation.  
+- Use stable power source and reliable USB drives.  
+- For dual booting with Windows, ensure you have free disk space and create backups.
+
+---
+
+If you want ISOs or help with any step, message me on Instagram [@tawnixstore](https://instagram.com/tawnixstore) or visit [tawxiiiidstore.wordpress.com](https://tawxiiiidstore.wordpress.com).
+
+---
+
+**Happy Linux exploring!**
