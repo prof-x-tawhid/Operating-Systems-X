@@ -42,8 +42,6 @@ This repository serves as a timeline, review hub, and archive of all my Linux ex
 
 1. Browse folders by distro name  
 2. Open `review.md` inside each folder for my personal experience  
-3. See `screenshots/` for desktop previews  
-4. Read `fixes.md` for common issues and solutions  
 
 ---
 
